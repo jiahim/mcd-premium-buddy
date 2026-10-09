@@ -1,0 +1,63 @@
+{
+  "validationDate": "2026-10-09",
+  "timezone": "Asia/Shanghai",
+  "client": "Codex 本地 MCP 联调脚本，非 WorkBuddy",
+  "store": {
+    "name": "麦当劳深圳金丰城餐厅",
+    "storeCode": "1421053",
+    "beType": 1,
+    "orderType": 1
+  },
+  "menuEntries": 119,
+  "couponQueryStatus": "本技能默认不查询账户券；本次高价方案没有使用券",
+  "quotes": [
+    {
+      "id": "premium-oat",
+      "label": "培根安格斯厚牛堡+中薯条+冰燕麦奶中杯",
+      "success": true,
+      "code": 200,
+      "time": "2026-10-09 16:08:55",
+      "itemCount": 3,
+      "message": "请求成功",
+      "price": 6900,
+      "productPrice": 6900,
+      "deliveryPrice": null,
+      "packingPrice": null,
+      "tablewarePrice": null,
+      "discount": 0
+    },
+    {
+      "id": "premium-espresso",
+      "label": "培根安格斯厚牛堡+中薯条+浓缩咖啡",
+      "success": true,
+      "code": 200,
+      "time": "2026-10-09 16:08:56",
+      "itemCount": 3,
+      "message": "请求成功",
+      "price": 6300,
+      "productPrice": 6300,
+      "deliveryPrice": null,
+      "packingPrice": null,
+      "tablewarePrice": null,
+      "discount": 0
+    },
+    {
+      "id": "premium-latte",
+      "label": "培根安格斯厚牛堡+中薯条+冰奶铁中杯（三件套换饮品）",
+      "success": true,
+      "code": 200,
+      "time": "2026-10-09 16:08:56",
+      "itemCount": 3,
+      "message": "请求成功",
+      "price": 5650,
+      "productPrice": 5650,
+      "deliveryPrice": null,
+      "packingPrice": null,
+      "tablewarePrice": null,
+      "discount": 0
+    }
+  ],
+  "ordersCreated": 0,
+  "couponsClaimed": 0,
+  "workbuddyTested": false
+}

@@ -1,0 +1,26 @@
+{
+  "note": "合成测试数据，不是真实门店报价",
+  "options": {
+    "mode": "premium",
+    "budgetCents": 10000,
+    "maxItems": 3
+  },
+  "quotes": [
+    {
+      "id": "A",
+      "totalCents": 2500,
+      "foodCents": 2500,
+      "extraCents": 0,
+      "itemCount": 3,
+      "meetsHardConstraints": true
+    },
+    {
+      "id": "B",
+      "totalCents": 6000,
+      "foodCents": 5900,
+      "extraCents": 100,
+      "itemCount": 3,
+      "meetsHardConstraints": true
+    }
+  ]
+}

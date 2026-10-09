@@ -1,0 +1,13 @@
+# 仅源码和脱敏证据可公开
+.DS_Store
+node_modules/
+.env
+.env.*
+!.env.example
+*token*
+*secret*
+*.local.json
+work/
+__pycache__/
+
+dist/

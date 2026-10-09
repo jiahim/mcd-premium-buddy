@@ -2,9 +2,9 @@
 name: "mcd-premium-buddy"
 display_name: "麦当劳富哥助手"
 display_name_en: "McDonald’s Premium Buddy"
-description: "当用户说富哥模式、只选贵的、怎么贵怎么来、整活排面或想找麦当劳高价搭配时使用；在给定人数、份量及预算内按真实商品金额优先推荐。"
-description_zh: "当用户说富哥模式、只选贵的、怎么贵怎么来、整活排面或想找麦当劳高价搭配时使用；在给定人数、份量及预算内按真实商品金额优先推荐。"
-description_en: "A playful premium meal chooser that prioritizes higher food prices within stated portions and budget."
+description: "来都来了，让钱包见见世面。你的麦门排面管家，专治“别给我省，怎么贵怎么来”。开启富哥模式、想给麦当劳套餐加点戏时，帮你翻菜单、挑升级、算真价，在约定的份量和预算里把高价搭配安排上。预算你定，排面我配，账单明明白白。"
+description_zh: "来都来了，让钱包见见世面。你的麦门排面管家，专治“别给我省，怎么贵怎么来”。开启富哥模式、想给麦当劳套餐加点戏时，帮你翻菜单、挑升级、算真价，在约定的份量和预算里把高价搭配安排上。预算你定，排面我配，账单明明白白。"
+description_en: "Give your wallet a grand day out. Your McDonald’s show-off concierge is here for “skip the savings—bring on the upgrades.” For premium-mode meal requests, browse the menu, compare upgrades and verify real prices, prioritizing higher-priced food combinations within your portions and budget. You set the limit; I bring the flair and a clear bill."
 version: "0.1.0"
 author: "xiexin"
 user-invocable: true
